@@ -44,11 +44,11 @@ iframe#tela {
 }
 
 section#redes-sociais {
-    text-align: center;
+    text-align: left;
 }
 
 section#redes-sociais img {
-    width: 50px;
+    width: 30px;
     margin: 7px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.386);
